@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="youtube1" tvg-name="YouTube Channel 1" tvg-logo="https://example.com/logo1.png" group-title="YouTube", YouTube Channel 1
-https://www.youtube.com/watch?v=lf1NxAexRAE
 
-#EXTINF:-1 tvg-id="youtube2" tvg-name="YouTube Channel 2" tvg-logo="https://example.com/logo2.png" group-title="YouTube", YouTube Channel 2
-https://www.youtube.com/watch?v=YOUTUBE_LIVE_STREAM_ID_2
+#EXTINF:-1 group-title="Cennet Mahallesi",Cennet Mahallesi - 1. Bölüm
+youtube://video/QH5hxZiMd4E
+
+#EXTINF:-1 group-title="Cennet Mahallesi",Cennet Mahallesi - 2. Bölüm
+youtube://video/k2xmt7Nk-SY
