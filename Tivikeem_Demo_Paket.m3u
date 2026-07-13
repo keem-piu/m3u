@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="Tivikeem_Demo_EPG.xml" url-tvg="Tivikeem_Demo_EPG.xml" tvg-shift="0" refresh="3600"
+#EXTM3U x-tvg-url="Tivikeem_Demo_EPG.xml" url-tvg="https://raw.githubusercontent.com/keem-piu/m3u/refs/heads/main/Tivikeem_Demo_EPG.xml" tvg-shift="0" refresh="3600"
 
 ##### CANLI TV — 20 KANAL #####
 #EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
