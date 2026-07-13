@@ -1,0 +1,127 @@
+#EXTM3U x-tvg-url="Tivikeem_Demo_EPG.xml" url-tvg="Tivikeem_Demo_EPG.xml" tvg-shift="0" refresh="3600"
+
+##### CANLI TV — 20 KANAL #####
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="2" tvg-country="AL" group-title="Canlı TV" tvg-type="live",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-chno="3" tvg-country="AL" group-title="Canlı TV" tvg-type="live",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-chno="4" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-chno="5" tvg-country="AL" group-title="Canlı TV" tvg-type="live",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-chno="6" tvg-country="AL" group-title="Canlı TV" tvg-type="live",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-chno="7" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-chno="8" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-chno="9" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri TV" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-chno="10" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja TV" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-chno="11" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-chno="12" tvg-country="AL" group-title="Canlı TV" tvg-type="live",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-chno="13" tvg-country="AD" group-title="Canlı TV" tvg-type="live",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-chno="14" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-chno="15" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-chno="16" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-chno="17" tvg-country="AR" group-title="Canlı TV" tvg-type="live",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-chno="18" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-chno="19" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+##### FİLMLER — 15 KAYIT #####
+#EXTINF:5100 tvg-id="movie.demo.01" tvg-name="Gece Treni" tvg-logo="https://placehold.co/600x900/171a21/ffffff.png?text=Gece+Treni" group-title="Filmler" tvg-type="movie" year="2011" rating="6.3" genre="Aksiyon" duration="85" description="Gece Treni, Tivikeem arayüz ve oynatıcı testleri için hazırlanmış kurgusal demo film kaydıdır.",Gece Treni (2011)
+https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXTINF:5280 tvg-id="movie.demo.02" tvg-name="Kayıp Ufuk" tvg-logo="https://placehold.co/600x900/171a21/ffffff.png?text=Kay%C4%B1p+Ufuk" group-title="Filmler" tvg-type="movie" year="2012" rating="6.4" genre="Dram" duration="88" description="Kayıp Ufuk, Tivikeem arayüz ve oynatıcı testleri için hazırlanmış kurgusal demo film kaydıdır.",Kayıp Ufuk (2012)
+https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+#EXTINF:5460 tvg-id="movie.demo.03" tvg-name="Son İstasyon" tvg-logo="https://placehold.co/600x900/171a21/ffffff.png?text=Son+%C4%B0stasyon" group-title="Filmler" tvg-type="movie" year="2013" rating="6.5" genre="Bilim Kurgu" duration="91" description="Son İstasyon, Tivikeem arayüz ve oynatıcı testleri için hazırlanmış kurgusal demo film kaydıdır.",Son İstasyon (2013)
+https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4
+#EXTINF:5640 tvg-id="movie.demo.04" tvg-name="Mavi Oda" tvg-logo="https://placehold.co/600x900/171a21/ffffff.png?text=Mavi+Oda" group-title="Filmler" tvg-type="movie" year="2014" rating="6.6" genre="Macera" duration="94" description="Mavi Oda, Tivikeem arayüz ve oynatıcı testleri için hazırlanmış kurgusal demo film kaydıdır.",Mavi Oda (2014)
+https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4
+#EXTINF:5820 tvg-id="movie.demo.05" tvg-name="Sessiz Şehir" tvg-logo="https://placehold.co/600x900/171a21/ffffff.png?text=Sessiz+%C5%9Eehir" group-title="Filmler" tvg-type="movie" year="2015" rating="6.7" genre="Gizem" duration="97" description="Sessiz Şehir, Tivikeem arayüz ve oynatıcı testleri için hazırlanmış kurgusal demo film kaydıdır.",Sessiz Şehir (2015)
+https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4
+#EXTINF:6000 tvg-id="movie.demo.06" tvg-name="Kuzey Rüzgârı" tvg-logo="https://placehold.co/600x900/171a21/ffffff.png?text=Kuzey+R%C3%BCzg%C3%A2r%C4%B1" group-title="Filmler" tvg-type="movie" year="2016" rating="6.8" genre="Komedi" duration="100" description="Kuzey Rüzgârı, Tivikeem arayüz ve oynatıcı testleri için hazırlanmış kurgusal demo film kaydıdır.",Kuzey Rüzgârı (2016)
+https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4
+#EXTINF:6180 tvg-id="movie.demo.07" tvg-name="Gölgedeki Adam" tvg-logo="https://placehold.co/600x900/171a21/ffffff.png?text=G%C3%B6lgedeki+Adam" group-title="Filmler" tvg-type="movie" year="2017" rating="6.9" genre="Aksiyon" duration="103" description="Gölgedeki Adam, Tivikeem arayüz ve oynatıcı testleri için hazırlanmış kurgusal demo film kaydıdır.",Gölgedeki Adam (2017)
+https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4
+#EXTINF:6360 tvg-id="movie.demo.08" tvg-name="Yıldız Tozu" tvg-logo="https://placehold.co/600x900/171a21/ffffff.png?text=Y%C4%B1ld%C4%B1z+Tozu" group-title="Filmler" tvg-type="movie" year="2018" rating="7.0" genre="Dram" duration="106" description="Yıldız Tozu, Tivikeem arayüz ve oynatıcı testleri için hazırlanmış kurgusal demo film kaydıdır.",Yıldız Tozu (2018)
+https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
+#EXTINF:6540 tvg-id="movie.demo.09" tvg-name="Kırık Saatler" tvg-logo="https://placehold.co/600x900/171a21/ffffff.png?text=K%C4%B1r%C4%B1k+Saatler" group-title="Filmler" tvg-type="movie" year="2019" rating="7.1" genre="Bilim Kurgu" duration="109" description="Kırık Saatler, Tivikeem arayüz ve oynatıcı testleri için hazırlanmış kurgusal demo film kaydıdır.",Kırık Saatler (2019)
+https://storage.googleapis.com/gtv-videos-bucket/sample/SuburuOutbackOnStreetAndDirt.mp4
+#EXTINF:6720 tvg-id="movie.demo.10" tvg-name="Uzak Liman" tvg-logo="https://placehold.co/600x900/171a21/ffffff.png?text=Uzak+Liman" group-title="Filmler" tvg-type="movie" year="2020" rating="7.2" genre="Macera" duration="112" description="Uzak Liman, Tivikeem arayüz ve oynatıcı testleri için hazırlanmış kurgusal demo film kaydıdır.",Uzak Liman (2020)
+https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
+#EXTINF:6900 tvg-id="movie.demo.11" tvg-name="Sonbahar Hikâyesi" tvg-logo="https://placehold.co/600x900/171a21/ffffff.png?text=Sonbahar+Hik%C3%A2yesi" group-title="Filmler" tvg-type="movie" year="2021" rating="7.3" genre="Gizem" duration="115" description="Sonbahar Hikâyesi, Tivikeem arayüz ve oynatıcı testleri için hazırlanmış kurgusal demo film kaydıdır.",Sonbahar Hikâyesi (2021)
+https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4
+#EXTINF:7080 tvg-id="movie.demo.12" tvg-name="Beyaz Çizgi" tvg-logo="https://placehold.co/600x900/171a21/ffffff.png?text=Beyaz+%C3%87izgi" group-title="Filmler" tvg-type="movie" year="2022" rating="7.4" genre="Komedi" duration="118" description="Beyaz Çizgi, Tivikeem arayüz ve oynatıcı testleri için hazırlanmış kurgusal demo film kaydıdır.",Beyaz Çizgi (2022)
+https://storage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4
+#EXTINF:7260 tvg-id="movie.demo.13" tvg-name="Dönüş Yolu" tvg-logo="https://placehold.co/600x900/171a21/ffffff.png?text=D%C3%B6n%C3%BC%C5%9F+Yolu" group-title="Filmler" tvg-type="movie" year="2023" rating="7.5" genre="Aksiyon" duration="121" description="Dönüş Yolu, Tivikeem arayüz ve oynatıcı testleri için hazırlanmış kurgusal demo film kaydıdır.",Dönüş Yolu (2023)
+https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXTINF:7440 tvg-id="movie.demo.14" tvg-name="Karanlıkta Işık" tvg-logo="https://placehold.co/600x900/171a21/ffffff.png?text=Karanl%C4%B1kta+I%C5%9F%C4%B1k" group-title="Filmler" tvg-type="movie" year="2024" rating="7.6" genre="Dram" duration="124" description="Karanlıkta Işık, Tivikeem arayüz ve oynatıcı testleri için hazırlanmış kurgusal demo film kaydıdır.",Karanlıkta Işık (2024)
+https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+#EXTINF:7620 tvg-id="movie.demo.15" tvg-name="Sonsuz Peron" tvg-logo="https://placehold.co/600x900/171a21/ffffff.png?text=Sonsuz+Peron" group-title="Filmler" tvg-type="movie" year="2025" rating="7.7" genre="Bilim Kurgu" duration="127" description="Sonsuz Peron, Tivikeem arayüz ve oynatıcı testleri için hazırlanmış kurgusal demo film kaydıdır.",Sonsuz Peron (2025)
+https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4
+
+##### DİZİLER — 25 KAYIT #####
+#EXTINF:2340 tvg-id="series.demo.01.s01e01" tvg-name="Sınır Hattı • S01E01" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=S%C4%B1n%C4%B1r+Hatt%C4%B1" group-title="Diziler" tvg-type="series" series-name="Sınır Hattı" season-number="1" episode-number="1" year="2019" rating="6.6" genre="Dram" duration="39" description="Sınır Hattı dizisinin S01E01 numaralı kurgusal demo bölümüdür.",Sınır Hattı • S01E01
+https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4
+#EXTINF:2400 tvg-id="series.demo.02.s01e02" tvg-name="Kayıp Dosyalar • S01E02" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=Kay%C4%B1p+Dosyalar" group-title="Diziler" tvg-type="series" series-name="Kayıp Dosyalar" season-number="1" episode-number="2" year="2020" rating="6.7" genre="Polisiye" duration="40" description="Kayıp Dosyalar dizisinin S01E02 numaralı kurgusal demo bölümüdür.",Kayıp Dosyalar • S01E02
+https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4
+#EXTINF:2460 tvg-id="series.demo.03.s01e03" tvg-name="Mavi Sokak • S01E03" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=Mavi+Sokak" group-title="Diziler" tvg-type="series" series-name="Mavi Sokak" season-number="1" episode-number="3" year="2021" rating="6.8" genre="Macera" duration="41" description="Mavi Sokak dizisinin S01E03 numaralı kurgusal demo bölümüdür.",Mavi Sokak • S01E03
+https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4
+#EXTINF:2520 tvg-id="series.demo.04.s01e04" tvg-name="Kuzey Kapısı • S01E04" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=Kuzey+Kap%C4%B1s%C4%B1" group-title="Diziler" tvg-type="series" series-name="Kuzey Kapısı" season-number="1" episode-number="4" year="2022" rating="6.9" genre="Gizem" duration="42" description="Kuzey Kapısı dizisinin S01E04 numaralı kurgusal demo bölümüdür.",Kuzey Kapısı • S01E04
+https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4
+#EXTINF:2580 tvg-id="series.demo.05.s01e05" tvg-name="Gizli Oda • S01E05" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=Gizli+Oda" group-title="Diziler" tvg-type="series" series-name="Gizli Oda" season-number="1" episode-number="5" year="2023" rating="7.0" genre="Komedi" duration="43" description="Gizli Oda dizisinin S01E05 numaralı kurgusal demo bölümüdür.",Gizli Oda • S01E05
+https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
+#EXTINF:2640 tvg-id="series.demo.06.s01e06" tvg-name="Son Vardiya • S01E06" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=Son+Vardiya" group-title="Diziler" tvg-type="series" series-name="Son Vardiya" season-number="1" episode-number="6" year="2024" rating="7.1" genre="Dram" duration="44" description="Son Vardiya dizisinin S01E06 numaralı kurgusal demo bölümüdür.",Son Vardiya • S01E06
+https://storage.googleapis.com/gtv-videos-bucket/sample/SuburuOutbackOnStreetAndDirt.mp4
+#EXTINF:2700 tvg-id="series.demo.07.s01e07" tvg-name="Yol Ayrımı • S01E07" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=Yol+Ayr%C4%B1m%C4%B1" group-title="Diziler" tvg-type="series" series-name="Yol Ayrımı" season-number="1" episode-number="7" year="2025" rating="7.2" genre="Polisiye" duration="45" description="Yol Ayrımı dizisinin S01E07 numaralı kurgusal demo bölümüdür.",Yol Ayrımı • S01E07
+https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
+#EXTINF:2760 tvg-id="series.demo.08.s01e08" tvg-name="Kırmızı Hat • S01E08" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=K%C4%B1rm%C4%B1z%C4%B1+Hat" group-title="Diziler" tvg-type="series" series-name="Kırmızı Hat" season-number="1" episode-number="8" year="2026" rating="7.3" genre="Macera" duration="46" description="Kırmızı Hat dizisinin S01E08 numaralı kurgusal demo bölümüdür.",Kırmızı Hat • S01E08
+https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4
+#EXTINF:2820 tvg-id="series.demo.09.s01e09" tvg-name="Sessiz Tanık • S01E09" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=Sessiz+Tan%C4%B1k" group-title="Diziler" tvg-type="series" series-name="Sessiz Tanık" season-number="1" episode-number="9" year="2018" rating="7.4" genre="Gizem" duration="47" description="Sessiz Tanık dizisinin S01E09 numaralı kurgusal demo bölümüdür.",Sessiz Tanık • S01E09
+https://storage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4
+#EXTINF:2880 tvg-id="series.demo.10.s01e10" tvg-name="Gece Ekibi • S01E10" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=Gece+Ekibi" group-title="Diziler" tvg-type="series" series-name="Gece Ekibi" season-number="1" episode-number="10" year="2019" rating="7.5" genre="Komedi" duration="48" description="Gece Ekibi dizisinin S01E10 numaralı kurgusal demo bölümüdür.",Gece Ekibi • S01E10
+https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXTINF:2940 tvg-id="series.demo.11.s02e01" tvg-name="Eski Defterler • S02E01" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=Eski+Defterler" group-title="Diziler" tvg-type="series" series-name="Eski Defterler" season-number="2" episode-number="1" year="2020" rating="7.6" genre="Dram" duration="49" description="Eski Defterler dizisinin S02E01 numaralı kurgusal demo bölümüdür.",Eski Defterler • S02E01
+https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+#EXTINF:3000 tvg-id="series.demo.12.s02e02" tvg-name="Gölge Şehir • S02E02" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=G%C3%B6lge+%C5%9Eehir" group-title="Diziler" tvg-type="series" series-name="Gölge Şehir" season-number="2" episode-number="2" year="2021" rating="7.7" genre="Polisiye" duration="50" description="Gölge Şehir dizisinin S02E02 numaralı kurgusal demo bölümüdür.",Gölge Şehir • S02E02
+https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4
+#EXTINF:3060 tvg-id="series.demo.13.s02e03" tvg-name="Yarım Kalan • S02E03" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=Yar%C4%B1m+Kalan" group-title="Diziler" tvg-type="series" series-name="Yarım Kalan" season-number="2" episode-number="3" year="2022" rating="7.8" genre="Macera" duration="51" description="Yarım Kalan dizisinin S02E03 numaralı kurgusal demo bölümüdür.",Yarım Kalan • S02E03
+https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4
+#EXTINF:3120 tvg-id="series.demo.14.s02e04" tvg-name="Derin İz • S02E04" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=Derin+%C4%B0z" group-title="Diziler" tvg-type="series" series-name="Derin İz" season-number="2" episode-number="4" year="2023" rating="7.9" genre="Gizem" duration="52" description="Derin İz dizisinin S02E04 numaralı kurgusal demo bölümüdür.",Derin İz • S02E04
+https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4
+#EXTINF:3180 tvg-id="series.demo.15.s02e05" tvg-name="Son Durak • S02E05" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=Son+Durak" group-title="Diziler" tvg-type="series" series-name="Son Durak" season-number="2" episode-number="5" year="2024" rating="8.0" genre="Komedi" duration="53" description="Son Durak dizisinin S02E05 numaralı kurgusal demo bölümüdür.",Son Durak • S02E05
+https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4
+#EXTINF:3240 tvg-id="series.demo.16.s02e06" tvg-name="Kayıp Zaman • S02E06" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=Kay%C4%B1p+Zaman" group-title="Diziler" tvg-type="series" series-name="Kayıp Zaman" season-number="2" episode-number="6" year="2025" rating="8.1" genre="Dram" duration="54" description="Kayıp Zaman dizisinin S02E06 numaralı kurgusal demo bölümüdür.",Kayıp Zaman • S02E06
+https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4
+#EXTINF:3300 tvg-id="series.demo.17.s02e07" tvg-name="Dört Duvar • S02E07" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=D%C3%B6rt+Duvar" group-title="Diziler" tvg-type="series" series-name="Dört Duvar" season-number="2" episode-number="7" year="2026" rating="8.2" genre="Polisiye" duration="55" description="Dört Duvar dizisinin S02E07 numaralı kurgusal demo bölümüdür.",Dört Duvar • S02E07
+https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
+#EXTINF:2280 tvg-id="series.demo.18.s02e08" tvg-name="Karanlık Sokak • S02E08" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=Karanl%C4%B1k+Sokak" group-title="Diziler" tvg-type="series" series-name="Karanlık Sokak" season-number="2" episode-number="8" year="2018" rating="8.3" genre="Macera" duration="38" description="Karanlık Sokak dizisinin S02E08 numaralı kurgusal demo bölümüdür.",Karanlık Sokak • S02E08
+https://storage.googleapis.com/gtv-videos-bucket/sample/SuburuOutbackOnStreetAndDirt.mp4
+#EXTINF:2340 tvg-id="series.demo.19.s02e09" tvg-name="Beyaz Gece • S02E09" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=Beyaz+Gece" group-title="Diziler" tvg-type="series" series-name="Beyaz Gece" season-number="2" episode-number="9" year="2019" rating="8.4" genre="Gizem" duration="39" description="Beyaz Gece dizisinin S02E09 numaralı kurgusal demo bölümüdür.",Beyaz Gece • S02E09
+https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
+#EXTINF:2400 tvg-id="series.demo.20.s02e10" tvg-name="Uzak Mahalle • S02E10" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=Uzak+Mahalle" group-title="Diziler" tvg-type="series" series-name="Uzak Mahalle" season-number="2" episode-number="10" year="2020" rating="6.5" genre="Komedi" duration="40" description="Uzak Mahalle dizisinin S02E10 numaralı kurgusal demo bölümüdür.",Uzak Mahalle • S02E10
+https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4
+#EXTINF:2460 tvg-id="series.demo.21.s03e01" tvg-name="Sıfır Noktası • S03E01" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=S%C4%B1f%C4%B1r+Noktas%C4%B1" group-title="Diziler" tvg-type="series" series-name="Sıfır Noktası" season-number="3" episode-number="1" year="2021" rating="6.6" genre="Dram" duration="41" description="Sıfır Noktası dizisinin S03E01 numaralı kurgusal demo bölümüdür.",Sıfır Noktası • S03E01
+https://storage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4
+#EXTINF:2520 tvg-id="series.demo.22.s03e02" tvg-name="İkinci Şans • S03E02" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=%C4%B0kinci+%C5%9Eans" group-title="Diziler" tvg-type="series" series-name="İkinci Şans" season-number="3" episode-number="2" year="2022" rating="6.7" genre="Polisiye" duration="42" description="İkinci Şans dizisinin S03E02 numaralı kurgusal demo bölümüdür.",İkinci Şans • S03E02
+https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXTINF:2580 tvg-id="series.demo.23.s03e03" tvg-name="Son Mektup • S03E03" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=Son+Mektup" group-title="Diziler" tvg-type="series" series-name="Son Mektup" season-number="3" episode-number="3" year="2023" rating="6.8" genre="Macera" duration="43" description="Son Mektup dizisinin S03E03 numaralı kurgusal demo bölümüdür.",Son Mektup • S03E03
+https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+#EXTINF:2640 tvg-id="series.demo.24.s03e04" tvg-name="Kapalı Kapılar • S03E04" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=Kapal%C4%B1+Kap%C4%B1lar" group-title="Diziler" tvg-type="series" series-name="Kapalı Kapılar" season-number="3" episode-number="4" year="2024" rating="6.9" genre="Gizem" duration="44" description="Kapalı Kapılar dizisinin S03E04 numaralı kurgusal demo bölümüdür.",Kapalı Kapılar • S03E04
+https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4
+#EXTINF:2700 tvg-id="series.demo.25.s03e05" tvg-name="Bir Başka Gün • S03E05" tvg-logo="https://placehold.co/600x900/202733/ffffff.png?text=Bir+Ba%C5%9Fka+G%C3%BCn" group-title="Diziler" tvg-type="series" series-name="Bir Başka Gün" season-number="3" episode-number="5" year="2025" rating="7.0" genre="Komedi" duration="45" description="Bir Başka Gün dizisinin S03E05 numaralı kurgusal demo bölümüdür.",Bir Başka Gün • S03E05
+https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4
