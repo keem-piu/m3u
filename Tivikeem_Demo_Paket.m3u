@@ -40,6 +40,806 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunk
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="2" tvg-country="AL" group-title="Canlı TV" tvg-type="live",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-chno="3" tvg-country="AL" group-title="Canlı TV" tvg-type="live",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-chno="4" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-chno="5" tvg-country="AL" group-title="Canlı TV" tvg-type="live",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-chno="6" tvg-country="AL" group-title="Canlı TV" tvg-type="live",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-chno="7" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-chno="8" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-chno="9" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri TV" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-chno="10" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja TV" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-chno="11" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-chno="12" tvg-country="AL" group-title="Canlı TV" tvg-type="live",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-chno="13" tvg-country="AD" group-title="Canlı TV" tvg-type="live",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-chno="14" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-chno="15" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-chno="16" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-chno="17" tvg-country="AR" group-title="Canlı TV" tvg-type="live",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-chno="18" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-chno="19" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="2" tvg-country="AL" group-title="Canlı TV" tvg-type="live",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-chno="3" tvg-country="AL" group-title="Canlı TV" tvg-type="live",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-chno="4" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-chno="5" tvg-country="AL" group-title="Canlı TV" tvg-type="live",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-chno="6" tvg-country="AL" group-title="Canlı TV" tvg-type="live",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-chno="7" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-chno="8" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-chno="9" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri TV" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-chno="10" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja TV" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-chno="11" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-chno="12" tvg-country="AL" group-title="Canlı TV" tvg-type="live",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-chno="13" tvg-country="AD" group-title="Canlı TV" tvg-type="live",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-chno="14" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-chno="15" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-chno="16" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-chno="17" tvg-country="AR" group-title="Canlı TV" tvg-type="live",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-chno="18" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-chno="19" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="2" tvg-country="AL" group-title="Canlı TV" tvg-type="live",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-chno="3" tvg-country="AL" group-title="Canlı TV" tvg-type="live",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-chno="4" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-chno="5" tvg-country="AL" group-title="Canlı TV" tvg-type="live",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-chno="6" tvg-country="AL" group-title="Canlı TV" tvg-type="live",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-chno="7" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-chno="8" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-chno="9" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri TV" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-chno="10" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja TV" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-chno="11" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-chno="12" tvg-country="AL" group-title="Canlı TV" tvg-type="live",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-chno="13" tvg-country="AD" group-title="Canlı TV" tvg-type="live",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-chno="14" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-chno="15" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-chno="16" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-chno="17" tvg-country="AR" group-title="Canlı TV" tvg-type="live",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-chno="18" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-chno="19" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="2" tvg-country="AL" group-title="Canlı TV" tvg-type="live",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-chno="3" tvg-country="AL" group-title="Canlı TV" tvg-type="live",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-chno="4" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-chno="5" tvg-country="AL" group-title="Canlı TV" tvg-type="live",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-chno="6" tvg-country="AL" group-title="Canlı TV" tvg-type="live",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-chno="7" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-chno="8" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-chno="9" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri TV" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-chno="10" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja TV" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-chno="11" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-chno="12" tvg-country="AL" group-title="Canlı TV" tvg-type="live",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-chno="13" tvg-country="AD" group-title="Canlı TV" tvg-type="live",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-chno="14" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-chno="15" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-chno="16" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-chno="17" tvg-country="AR" group-title="Canlı TV" tvg-type="live",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-chno="18" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-chno="19" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="2" tvg-country="AL" group-title="Canlı TV" tvg-type="live",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-chno="3" tvg-country="AL" group-title="Canlı TV" tvg-type="live",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-chno="4" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-chno="5" tvg-country="AL" group-title="Canlı TV" tvg-type="live",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-chno="6" tvg-country="AL" group-title="Canlı TV" tvg-type="live",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-chno="7" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-chno="8" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-chno="9" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri TV" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-chno="10" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja TV" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-chno="11" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-chno="12" tvg-country="AL" group-title="Canlı TV" tvg-type="live",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-chno="13" tvg-country="AD" group-title="Canlı TV" tvg-type="live",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-chno="14" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-chno="15" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-chno="16" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-chno="17" tvg-country="AR" group-title="Canlı TV" tvg-type="live",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-chno="18" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-chno="19" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="2" tvg-country="AL" group-title="Canlı TV" tvg-type="live",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-chno="3" tvg-country="AL" group-title="Canlı TV" tvg-type="live",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-chno="4" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-chno="5" tvg-country="AL" group-title="Canlı TV" tvg-type="live",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-chno="6" tvg-country="AL" group-title="Canlı TV" tvg-type="live",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-chno="7" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-chno="8" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-chno="9" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri TV" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-chno="10" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja TV" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-chno="11" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-chno="12" tvg-country="AL" group-title="Canlı TV" tvg-type="live",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-chno="13" tvg-country="AD" group-title="Canlı TV" tvg-type="live",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-chno="14" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-chno="15" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-chno="16" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-chno="17" tvg-country="AR" group-title="Canlı TV" tvg-type="live",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-chno="18" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-chno="19" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="2" tvg-country="AL" group-title="Canlı TV" tvg-type="live",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-chno="3" tvg-country="AL" group-title="Canlı TV" tvg-type="live",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-chno="4" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-chno="5" tvg-country="AL" group-title="Canlı TV" tvg-type="live",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-chno="6" tvg-country="AL" group-title="Canlı TV" tvg-type="live",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-chno="7" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-chno="8" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-chno="9" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri TV" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-chno="10" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja TV" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-chno="11" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-chno="12" tvg-country="AL" group-title="Canlı TV" tvg-type="live",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-chno="13" tvg-country="AD" group-title="Canlı TV" tvg-type="live",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-chno="14" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-chno="15" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-chno="16" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-chno="17" tvg-country="AR" group-title="Canlı TV" tvg-type="live",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-chno="18" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-chno="19" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="2" tvg-country="AL" group-title="Canlı TV" tvg-type="live",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-chno="3" tvg-country="AL" group-title="Canlı TV" tvg-type="live",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-chno="4" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-chno="5" tvg-country="AL" group-title="Canlı TV" tvg-type="live",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-chno="6" tvg-country="AL" group-title="Canlı TV" tvg-type="live",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-chno="7" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-chno="8" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-chno="9" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri TV" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-chno="10" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja TV" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-chno="11" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-chno="12" tvg-country="AL" group-title="Canlı TV" tvg-type="live",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-chno="13" tvg-country="AD" group-title="Canlı TV" tvg-type="live",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-chno="14" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-chno="15" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-chno="16" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-chno="17" tvg-country="AR" group-title="Canlı TV" tvg-type="live",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-chno="18" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-chno="19" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="2" tvg-country="AL" group-title="Canlı TV" tvg-type="live",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-chno="3" tvg-country="AL" group-title="Canlı TV" tvg-type="live",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-chno="4" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-chno="5" tvg-country="AL" group-title="Canlı TV" tvg-type="live",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-chno="6" tvg-country="AL" group-title="Canlı TV" tvg-type="live",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-chno="7" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-chno="8" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-chno="9" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri TV" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-chno="10" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja TV" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-chno="11" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-chno="12" tvg-country="AL" group-title="Canlı TV" tvg-type="live",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-chno="13" tvg-country="AD" group-title="Canlı TV" tvg-type="live",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-chno="14" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-chno="15" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-chno="16" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-chno="17" tvg-country="AR" group-title="Canlı TV" tvg-type="live",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-chno="18" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-chno="19" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="2" tvg-country="AL" group-title="Canlı TV" tvg-type="live",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-chno="3" tvg-country="AL" group-title="Canlı TV" tvg-type="live",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-chno="4" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-chno="5" tvg-country="AL" group-title="Canlı TV" tvg-type="live",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-chno="6" tvg-country="AL" group-title="Canlı TV" tvg-type="live",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-chno="7" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-chno="8" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-chno="9" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri TV" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-chno="10" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja TV" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-chno="11" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-chno="12" tvg-country="AL" group-title="Canlı TV" tvg-type="live",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-chno="13" tvg-country="AD" group-title="Canlı TV" tvg-type="live",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-chno="14" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-chno="15" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-chno="16" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-chno="17" tvg-country="AR" group-title="Canlı TV" tvg-type="live",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-chno="18" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-chno="19" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="2" tvg-country="AL" group-title="Canlı TV" tvg-type="live",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-chno="3" tvg-country="AL" group-title="Canlı TV" tvg-type="live",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-chno="4" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-chno="5" tvg-country="AL" group-title="Canlı TV" tvg-type="live",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-chno="6" tvg-country="AL" group-title="Canlı TV" tvg-type="live",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-chno="7" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-chno="8" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-chno="9" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri TV" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-chno="10" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja TV" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-chno="11" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-chno="12" tvg-country="AL" group-title="Canlı TV" tvg-type="live",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-chno="13" tvg-country="AD" group-title="Canlı TV" tvg-type="live",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-chno="14" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-chno="15" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-chno="16" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-chno="17" tvg-country="AR" group-title="Canlı TV" tvg-type="live",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-chno="18" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-chno="19" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="2" tvg-country="AL" group-title="Canlı TV" tvg-type="live",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-chno="3" tvg-country="AL" group-title="Canlı TV" tvg-type="live",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-chno="4" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-chno="5" tvg-country="AL" group-title="Canlı TV" tvg-type="live",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-chno="6" tvg-country="AL" group-title="Canlı TV" tvg-type="live",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-chno="7" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-chno="8" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-chno="9" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri TV" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-chno="10" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja TV" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-chno="11" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-chno="12" tvg-country="AL" group-title="Canlı TV" tvg-type="live",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-chno="13" tvg-country="AD" group-title="Canlı TV" tvg-type="live",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-chno="14" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-chno="15" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-chno="16" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-chno="17" tvg-country="AR" group-title="Canlı TV" tvg-type="live",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-chno="18" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-chno="19" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="2" tvg-country="AL" group-title="Canlı TV" tvg-type="live",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-chno="3" tvg-country="AL" group-title="Canlı TV" tvg-type="live",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-chno="4" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-chno="5" tvg-country="AL" group-title="Canlı TV" tvg-type="live",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-chno="6" tvg-country="AL" group-title="Canlı TV" tvg-type="live",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-chno="7" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-chno="8" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-chno="9" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri TV" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-chno="10" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja TV" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-chno="11" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-chno="12" tvg-country="AL" group-title="Canlı TV" tvg-type="live",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-chno="13" tvg-country="AD" group-title="Canlı TV" tvg-type="live",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-chno="14" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-chno="15" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-chno="16" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-chno="17" tvg-country="AR" group-title="Canlı TV" tvg-type="live",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-chno="18" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-chno="19" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="2" tvg-country="AL" group-title="Canlı TV" tvg-type="live",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-chno="3" tvg-country="AL" group-title="Canlı TV" tvg-type="live",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-chno="4" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-chno="5" tvg-country="AL" group-title="Canlı TV" tvg-type="live",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-chno="6" tvg-country="AL" group-title="Canlı TV" tvg-type="live",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-chno="7" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-chno="8" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-chno="9" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri TV" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-chno="10" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja TV" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-chno="11" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-chno="12" tvg-country="AL" group-title="Canlı TV" tvg-type="live",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-chno="13" tvg-country="AD" group-title="Canlı TV" tvg-type="live",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-chno="14" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-chno="15" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-chno="16" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-chno="17" tvg-country="AR" group-title="Canlı TV" tvg-type="live",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-chno="18" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-chno="19" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="2" tvg-country="AL" group-title="Canlı TV" tvg-type="live",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-chno="3" tvg-country="AL" group-title="Canlı TV" tvg-type="live",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-chno="4" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-chno="5" tvg-country="AL" group-title="Canlı TV" tvg-type="live",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-chno="6" tvg-country="AL" group-title="Canlı TV" tvg-type="live",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-chno="7" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-chno="8" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-chno="9" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri TV" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-chno="10" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja TV" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-chno="11" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-chno="12" tvg-country="AL" group-title="Canlı TV" tvg-type="live",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-chno="13" tvg-country="AD" group-title="Canlı TV" tvg-type="live",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-chno="14" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-chno="15" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-chno="16" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-chno="17" tvg-country="AR" group-title="Canlı TV" tvg-type="live",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-chno="18" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-chno="19" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="2" tvg-country="AL" group-title="Canlı TV" tvg-type="live",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-chno="3" tvg-country="AL" group-title="Canlı TV" tvg-type="live",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-chno="4" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-chno="5" tvg-country="AL" group-title="Canlı TV" tvg-type="live",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-chno="6" tvg-country="AL" group-title="Canlı TV" tvg-type="live",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-chno="7" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-chno="8" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-chno="9" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri TV" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-chno="10" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja TV" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-chno="11" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-chno="12" tvg-country="AL" group-title="Canlı TV" tvg-type="live",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-chno="13" tvg-country="AD" group-title="Canlı TV" tvg-type="live",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-chno="14" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-chno="15" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-chno="16" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-chno="17" tvg-country="AR" group-title="Canlı TV" tvg-type="live",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-chno="18" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-chno="19" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="2" tvg-country="AL" group-title="Canlı TV" tvg-type="live",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-chno="3" tvg-country="AL" group-title="Canlı TV" tvg-type="live",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-chno="4" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-chno="5" tvg-country="AL" group-title="Canlı TV" tvg-type="live",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-chno="6" tvg-country="AL" group-title="Canlı TV" tvg-type="live",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-chno="7" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-chno="8" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-chno="9" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri TV" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-chno="10" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja TV" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-chno="11" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-chno="12" tvg-country="AL" group-title="Canlı TV" tvg-type="live",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-chno="13" tvg-country="AD" group-title="Canlı TV" tvg-type="live",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-chno="14" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-chno="15" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-chno="16" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-chno="17" tvg-country="AR" group-title="Canlı TV" tvg-type="live",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-chno="18" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-chno="19" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="2" tvg-country="AL" group-title="Canlı TV" tvg-type="live",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-chno="3" tvg-country="AL" group-title="Canlı TV" tvg-type="live",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-chno="4" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-chno="5" tvg-country="AL" group-title="Canlı TV" tvg-type="live",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-chno="6" tvg-country="AL" group-title="Canlı TV" tvg-type="live",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-chno="7" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-chno="8" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-chno="9" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri TV" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-chno="10" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja TV" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-chno="11" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-chno="12" tvg-country="AL" group-title="Canlı TV" tvg-type="live",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-chno="13" tvg-country="AD" group-title="Canlı TV" tvg-type="live",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-chno="14" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-chno="15" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-chno="16" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-chno="17" tvg-country="AR" group-title="Canlı TV" tvg-type="live",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-chno="18" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-chno="19" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="2" tvg-country="AL" group-title="Canlı TV" tvg-type="live",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-chno="3" tvg-country="AL" group-title="Canlı TV" tvg-type="live",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-chno="4" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-chno="5" tvg-country="AL" group-title="Canlı TV" tvg-type="live",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-chno="6" tvg-country="AL" group-title="Canlı TV" tvg-type="live",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-chno="7" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-chno="8" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-chno="9" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri TV" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-chno="10" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja TV" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-chno="11" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-chno="12" tvg-country="AL" group-title="Canlı TV" tvg-type="live",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-chno="13" tvg-country="AD" group-title="Canlı TV" tvg-type="live",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-chno="14" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-chno="15" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-chno="16" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-chno="17" tvg-country="AR" group-title="Canlı TV" tvg-type="live",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-chno="18" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-chno="19" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-chno="2" tvg-country="AL" group-title="Canlı TV" tvg-type="live",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-chno="3" tvg-country="AL" group-title="Canlı TV" tvg-type="live",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-chno="4" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-chno="5" tvg-country="AL" group-title="Canlı TV" tvg-type="live",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-chno="6" tvg-country="AL" group-title="Canlı TV" tvg-type="live",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-chno="7" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-chno="8" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-chno="9" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri TV" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-chno="10" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja TV" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-chno="11" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-chno="12" tvg-country="AL" group-title="Canlı TV" tvg-type="live",TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad" tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-chno="13" tvg-country="AD" group-title="Canlı TV" tvg-type="live",Andorra TV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-chno="14" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-chno="15" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-chno="16" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-chno="17" tvg-country="AR" group-title="Canlı TV" tvg-type="live",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-chno="18" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-chno="19" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-chno="20" tvg-country="AR" group-title="Canlı TV" tvg-type="live",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 ##### FİLMLER — 15 GERÇEK AFİŞLİ TEST KAYDI #####
 # NOT: Film adları, yılları, süreleri ve afişleri gerçektir. Oynatma URL'leri yalnızca arayüz/oynatıcı testi için yasal demo videolarıdır.
