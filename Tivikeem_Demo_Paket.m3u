@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="Tivikeem_2000_Demo_EPG_7Gun.xml" url-tvg="https://raw.githubusercontent.com/keem-piu/m3u/refs/heads/main/Tivikeem_2000_Demo_EPG_7Gun.xml" tvg-shift="0" refresh="3600"
+#EXTM3U x-tvg-url="Tivikeem_2000_Demo_EPG_7Gun.xml" url-tvg="https://raw.githubusercontent.com/keem-piu/m3u/refs/heads/main/Tivikeem_2000_Demo_EPG_7Gun_UNDER25MB.xml" tvg-shift="0" refresh="3600"
 ##### CANLI TV — 2000 KANAL / 500 KANALDA 7 GÜNLÜK DEMO EPG #####
 # NOT: İlk 20 benzersiz canlı kanal kaynak dosyadan korunmuştur. Ek 1980 kanal kurgusal test kaydıdır; oynatma URL'leri test amacıyla mevcut açık akışlardan döndürülür.
 #EXTINF:-1 tvg-id="Kanali7.al" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-chno="1" tvg-country="AL" group-title="Canlı TV" tvg-type="live",Kanali 7
